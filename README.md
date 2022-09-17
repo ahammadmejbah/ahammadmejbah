@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on Data Fusion and Self Automations.
 - 🤔 I’m looking for help with AI projects
 - 💬 Ask me about AI
-- 📫 How to reach me: ...
-- 😄 Pronouns: Shah Nazmul Alam
+- 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/ahammadmejbah/)
+- 😄 Pronouns: Mejbah Ahammad (মেজবাহ আহাম্মাদ (সিয়াম))
 - ⚡ Fun fact: Nothing
 
 
