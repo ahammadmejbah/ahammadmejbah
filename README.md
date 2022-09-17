@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am Currently Working on Explainable AI & Data Fusion
+
+- 🔭 I am currently Working on Explainable AI, Transformer Learning
+- 🌱 I’m currently learning Deep Learning , Machine Learning, Data Science
+- 👯 I’m looking to collaborate on Data Fusion and Self Automations.
+- 🤔 I’m looking for help with AI projects
+- 💬 Ask me about AI
+- 📫 How to reach me: ...
+- 😄 Pronouns: Shah Nazmul Alam
+- ⚡ Fun fact: Nothing
 
 
 ## 🌐 Socials:
