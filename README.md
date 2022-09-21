@@ -1,5 +1,8 @@
 # 💫 About Me:
 
+👻 Machine learning, deep learning, and data science are areas that really pique my attention and where I excel. When I go above and above for my customers, I get a rush from demonstrating the depth of my expertise and earning their confidence. I am able to motivate myself and I like working on assignments that push me to my limits. I want to achieve the goals that have been set for me and guarantee that I will devote my whole attention to the work that has been given to me.
+
+
 - 🔭 I am currently Working on Explainable AI, Transformer Learning
 - 🌱 I’m currently learning Deep Learning , Machine Learning, Data Science
 - 👯 I’m looking to collaborate on Data Fusion and Self Automations.
