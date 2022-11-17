@@ -15,6 +15,13 @@
 - ⚡ Fun fact: Nothing
 
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{mejbahahammad}/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{mejbahahammad}/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{mejbahahammad}/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{mejbahahammad}/discussion/light)
+
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/tDp6Jx6t) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](http://facebook.com/ahammadmejbah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/deepneuronai/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/ahammadmejbah/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@deepneuronai) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/ahammadmejbah/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://bn.quora.com/profile/Deep-Neuron-AI) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19989517) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitter.com/AhammadMejbah) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AhammadMejbah) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC8Vg1b1r1-HTd7bnZBd0Mog) 
 
