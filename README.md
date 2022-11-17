@@ -16,9 +16,8 @@
 
 
 <p align="center">
-  <img height="100px" src="./assets/logo.png" align="center" alt="GitHub Readme Stats" />
   <br/>
-  <p align="center">🥇Add dynamically generated Kaggle Tier & Medals on your readme.🥇</p>
+ 
   
 </p>
 
