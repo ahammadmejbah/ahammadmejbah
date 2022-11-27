@@ -17,9 +17,7 @@
   <a href="https://github.com/ahammadmejbah?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ahammadmejbah?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
-
-<a href="https://github.com/ahammadmejbah?tab=#">
-    <img alt="About Me" title="About Me" src="https://custom-icon-badges.demolab.com/github/followers/#?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=About Me&logoColor=white"/></a>💫 About Me:
+<h2>💫 About Me:</h2>
 </p>
 🔥🔥 Machine learning, deep learning, and data science are areas that really pique my attention and where I excel. When I go above and above for my customers, I get a rush from demonstrating the depth of my expertise and earning their confidence. I am able to motivate myself and I like working on assignments that push me to my limits. I want to achieve the goals that have been set for me and guarantee that I will devote my whole attention to the work that has been given to me. 🔥🔥
 
