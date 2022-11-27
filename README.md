@@ -32,6 +32,7 @@
 ![mejbahahammad](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mejbahahammad)
 
 
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -45,40 +46,28 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ahammadmejbah/Machine-Learning-Book-Collections"><b>/Machine Learning Book Collections</b></a></td>
+      <td><a href="https://github.com/ahammadmejbah/Machine-Learning-Book-Collections"><b>Machine Learning Book Collections</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ahammadmejbah/Machine-Learning-Book-Collections?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ahammadmejbah/Machine-Learning-Book-Collections?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ahammadmejbah/Machine-Learning-Book-Collections?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ahammadmejbah/Machine-Learning-Book-Collections?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/ahammadmejbah/Cheat-Sheet"><b>Cheat Sheet</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ahammadmejbah/Cheat-Sheet?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ahammadmejbah/Cheat-Sheet?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ahammadmejbah/Cheat-Sheet?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ahammadmejbah/Cheat-Sheet?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/ahammadmejbah/Data-Science-Book-Collections"><b>Data Science Book Collections</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
