@@ -1,7 +1,11 @@
 <img src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/DeepNeuronAI.png" alt="Deep Neuron AI">
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&multiline=true&width=520&height=120&lines=Mejbah+Ahammad;Data+Science+and+Machine+Learning+Enthusiasts+;Experienced+In+AI%2C+DS%2C+DL%2C+ML%2C+CV;3%2B+Years+of+Coding+Experience+;Always+Learn+New+Things" alt="Typing SVG" /></a>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&multiline=true&width=520&height=120&lines=Mejbah+Ahammad;Data+Science+and+Machine+Learning+Enthusiasts+;Experienced+In+AI%2C+DS%2C+DL%2C+ML%2C+CV;3%2B+Years+of+Coding+Experience+;Always+Learn+New+Things" alt="Typing SVG" /></a>
+</p>
+
 
 
 # 💫 About Me:
