@@ -1,7 +1,6 @@
 <img src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/DeepNeuronAI.png" alt="Deep Neuron AI">
 
 
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=F75806&center=true&vCenter=true&multiline=true&width=1520&height=320&lines=Mejbah+Ahammad;Data+Science+and+Machine+Learning+Enthusiasts+;Experienced+In+AI%2C+DS%2C+DL%2C+ML%2C+CV;3%2B+Years+of+Coding+Experience+;Always+Learn+New+Things" alt="Typing SVG" /></a>
 </p>
@@ -49,7 +48,7 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmejbahahammad%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 ![mejbahahammad](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mejbahahammad)
 
-
+![Metrics](https://metrics.lecoq.io/ahammadmejbah?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka&config.twemoji=true&config.octicon=true)
 
 <h3>Open source Repositories</h3>
 <table>
@@ -110,8 +109,7 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ahammadmejbah) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ahammadmejbah) 
-  
-![Metrics](https://metrics.lecoq.io/ahammadmejbah?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka&config.twemoji=true&config.octicon=true)
+
 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
