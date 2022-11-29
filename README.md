@@ -79,6 +79,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ahammadmejbah/Cheat-Sheet?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ahammadmejbah/Cheat-Sheet?style=flat-square&labelColor=343b41"/></td>
     </tr>
+	  
     <tr>
       <td><a href="https://github.com/ahammadmejbah/Data-Science-Book-Collections"><b>Data Science Book Collections</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"/></td>
@@ -86,8 +87,6 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  
-	</tr>
 	  <tr>
       <td><a href="https://github.com/ahammadmejbah/AI-Cheat-Sheet"><b>AI Cheat Sheet</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ahammadmejbah/AI-Cheat-Sheet?style=flat-square&labelColor=343b41"/></td>
