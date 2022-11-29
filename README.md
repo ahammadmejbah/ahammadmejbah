@@ -67,17 +67,17 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/ahammadmejbah/Machine-Learning-Book-Collections"><b>Machine Learning Book Collections</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ahammadmejbah/Machine-Learning-Book-Collections?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ahammadmejbah/Machine-Learning-Book-Collections?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ahammadmejbah/Machine-Learning-Book-Collections?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ahammadmejbah/Machine-Learning-Book-Collections?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ahammadmejbah/Machine-Learning-Book-Collections?style=flat-square&labelColor=343b41"></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ahammadmejbah/Machine-Learning-Book-Collections?style=flat-square&labelColor=343b41"></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ahammadmejbah/Machine-Learning-Book-Collections?style=flat-square&labelColor=343b41"></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ahammadmejbah/Machine-Learning-Book-Collections?style=flat-square&labelColor=343b41"></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ahammadmejbah/Data-Science-Book-Collections"><b>Data Science Book Collections</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"></td>
     </tr>
 
     <tr>
