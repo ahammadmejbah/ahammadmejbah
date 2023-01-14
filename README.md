@@ -1,4 +1,4 @@
-<img src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/DeepNeuronAI.png" alt="Deep Neuron AI">
+![image](https://user-images.githubusercontent.com/56669333/212460390-01f0e7f7-dc89-4d55-9584-a2f3cc1b10b1.png)
 
 
 <p align="center">
