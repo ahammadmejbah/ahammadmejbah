@@ -220,7 +220,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AHAMMADMEJBAH&icon=1&color=8)](https://visitcount.itsvg.in)
+
 [![](https://visitcount.itsvg.in/api?id=AHAMMADMEJBAH&label=Profile%20Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
