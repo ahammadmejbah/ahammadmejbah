@@ -216,8 +216,7 @@
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Recent Tweet
 
 <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=ahammadmejbah&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
 
