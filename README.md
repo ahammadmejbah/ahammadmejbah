@@ -221,7 +221,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AHAMMADMEJBAH&icon=1&color=8)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=AHAMMADMEJBAH&label=Profile%40Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=AHAMMADMEJBAH&label=Profile%30Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 [![](https://visitcount.itsvg.in/api?id=ahammadmejbah&label=Profile%50Views&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
   ## 💰 You can help me by Donating
