@@ -203,11 +203,6 @@
 
 
 
-### ✍️ Recent Tweet
-
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=ahammadmejbah&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
-
-
 [![](https://visitcount.itsvg.in/api?id=AHAMMADMEJBAH&label=Visitors&color=2&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
