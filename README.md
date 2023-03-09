@@ -14,8 +14,27 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ahammadmejbah?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Robotics-brown"> <img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
+<img src="https://img.shields.io/badge/Robotics-brown">
+<img src="https://img.shields.io/badge/Machine Learning-green">
+<img src="https://img.shields.io/badge/Deep Learning-red">
+<img src="https://img.shields.io/badge/Computer Vision-magenta">
+<img src="https://img.shields.io/badge/Natural Language Processing-yellow">
+<img src="https://img.shields.io/badge/Reinforcement Learning-blue"> 
+<img src="https://img.shields.io/badge/Python-brown">
+<img src="https://img.shields.io/badge/Tensorflow-green">
+<img src="https://img.shields.io/badge/Pytorch-red">
+<img src="https://img.shields.io/badge/NLTK-magenta">
+<img src="https://img.shields.io/badge/MaxNet-yellow">
+<img src="https://img.shields.io/badge/Pandas-blue"> 
+<img src="https://img.shields.io/badge/Numpy-brown">
+<img src="https://img.shields.io/badge/Scikit Learn-green">
+<img src="https://img.shields.io/badge/Scikit Image-red">
+<img src="https://img.shields.io/badge/Matplotlib-magenta">
+<img src="https://img.shields.io/badge/OpenCV-yellow">
+<img src="https://img.shields.io/badge/MongoDB-blue"> 
 </p>
+
+
 
 <b><h2><code> About Me </code></h2></b>
 
