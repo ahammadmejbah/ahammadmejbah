@@ -133,6 +133,7 @@
   </tbody>
 </table>
 
+![image](https://user-images.githubusercontent.com/56669333/224136142-80471b1d-23e2-4d58-abc6-bc7e813569a5.png)
 
 
 ## 🌐 Socials:
