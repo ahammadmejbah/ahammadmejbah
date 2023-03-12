@@ -133,7 +133,7 @@
   </tbody>
 </table>
 
-![image](https://user-images.githubusercontent.com/56669333/224136142-80471b1d-23e2-4d58-abc6-bc7e813569a5.png)
+![image](https://user-images.githubusercontent.com/56669333/224548682-e18bca96-ed73-47bb-9d0e-94c1540c018d.png)
 
 
 ## 🏆 GitHub Trophies
