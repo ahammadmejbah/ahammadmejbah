@@ -15,31 +15,6 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ahammadmejbah?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-
-- 🔭 I am currently Working on Explainable AI, Transformer Learning
-- 🌱 I’m currently learning Deep Learning , Machine Learning, Data Science
-- 👯 I’m looking to collaborate on Data Fusion and Self Automations.
-- 🤔 I’m looking for help with AI projects
-- 💬 Ask me about AI
-- 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/ahammadmejbah/)
-- 😄 Pronouns: Mejbah Ahammad (মেজবাহ আহাম্মাদ (সিয়াম))
-- ⚡ Fun fact: Nothing
-
-    <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0002-8759-0589"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0000-0002-8759-0589
-    </a>
-
-
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmejbahahammad%2Fkaggle-badge&count_bg=%23DDAA17&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 ![mejbahahammad](https://road-to-kaggle-grandmaster.vercel.app/api/simple/mejbahahammad)
 
