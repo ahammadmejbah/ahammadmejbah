@@ -16,11 +16,6 @@
 </p>
 
 
-# <p align="center"> 🏆  DataCamp Achievements  🏆 </p> 
-<img src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/Super.png" alt="DataCamp">
-<img src="https://github.com/ahammadmejbah/AHAMMADMEJBAH/blob/main/DataCampData.png" alt="DataCamp">
-
-
 - 🔭 I am currently Working on Explainable AI, Transformer Learning
 - 🌱 I’m currently learning Deep Learning , Machine Learning, Data Science
 - 👯 I’m looking to collaborate on Data Fusion and Self Automations.
