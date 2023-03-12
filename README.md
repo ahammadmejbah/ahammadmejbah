@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="https://github.com/ahammadmejbah/ahammadmejbah/blob/main/Mejbah.png" width="80px"><br/>#</h1>
+      <h1> <img src="https://github.com/ahammadmejbah/ahammadmejbah/blob/main/Mejbah.png" width="2048px"><br/>#</h1>
      </div>
 
     
