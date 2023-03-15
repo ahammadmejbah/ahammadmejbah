@@ -66,8 +66,6 @@
   </tbody>
 </table>
 
-![image](https://user-images.githubusercontent.com/56669333/224548730-a55a9933-16b3-4546-92bb-57b3c32b0e3c.png)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AHAMMADMEJBAH&theme=radical&no-frame=true&no-bg=false&margin-w=4)
