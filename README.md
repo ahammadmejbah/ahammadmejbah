@@ -16,57 +16,6 @@
 </p>
 
 
-<h3>Open source Repositories</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Repositories </b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-	  <tr>
-	    <td><a href="https://github.com/ahammadmejbah/Machine-Learning-Book-Collections"><b>Machine Learning Book Collections</b></a></td>
-      	    <td><img alt="Stars" src="https://img.shields.io/github/stars/ahammadmejbah/Machine-Learning-Book-Collections?style=flat-square&labelColor=343b41"></td>
-      	    <td><img alt="Forks" src="https://img.shields.io/github/forks/ahammadmejbah/Machine-Learning-Book-Collections?style=flat-square&labelColor=343b41"></td>
-      	    <td><img alt="Issues" src="https://img.shields.io/github/issues/ahammadmejbah/Machine-Learning-Book-Collections?style=flat-square&labelColor=343b41"></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ahammadmejbah/Machine-Learning-Book-Collections?style=flat-square&labelColor=343b41"></td>
-	  </tr>
-	  <tr>
-            <td><a href="https://github.com/ahammadmejbah/Data-Science-Book-Collections"><b>Data Science Book Collections</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ahammadmejbah/Data-Science-Book-Collections?style=flat-square&labelColor=343b41"></td>
-	  </tr>
-	  <tr>
-            <td><a href="https://github.com/ahammadmejbah/Cheat-Sheet"><b>Cheat Sheet</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/ahammadmejbah/Cheat-Sheet?style=flat-square&labelColor=343b41"></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/ahammadmejbah/Cheat-Sheet?style=flat-square&labelColor=343b41"></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/ahammadmejbah/Cheat-Sheet?style=flat-square&labelColor=343b41"></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ahammadmejbah/Cheat-Sheet?style=flat-square&labelColor=343b41"></td>
-	  </tr>
-	  <tr>
-            <td><a href="https://github.com/ahammadmejbah/AI-Cheat-Sheet"><b>AI Cheat Sheet</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/ahammadmejbah/AI-Cheat-Sheet?style=flat-square&labelColor=343b41"></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/ahammadmejbah/AI-Cheat-Sheet?style=flat-square&labelColor=343b41"></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/ahammadmejbah/AI-Cheat-Sheet?style=flat-square&labelColor=343b41"></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ahammadmejbah/AI-Cheat-Sheet?style=flat-square&labelColor=343b41"></td>
-	  </tr> 
-	  <tr>
-            <td><a href="https://github.com/ahammadmejbah/Artificial-Intelligence-Important-Documents-Collections"><b>Artificial Intelligence Important Documents Collections</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/ahammadmejbah/Artificial-Intelligence-Important-Documents-Collections?style=flat-square&labelColor=343b41"></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/ahammadmejbah/Artificial-Intelligence-Important-Documents-Collections?style=flat-square&labelColor=343b41"></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/ahammadmejbah/Artificial-Intelligence-Important-Documents-Collections?style=flat-square&labelColor=343b41"></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ahammadmejbah/Artificial-Intelligence-Important-Documents-Collections?style=flat-square&labelColor=343b41"></td>
-	  </tr> 
-  </tbody>
-</table>
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AHAMMADMEJBAH&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
