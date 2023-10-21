@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="https://github.com/Bytes-Of-Intelligence-Unveiling-AI/Bytes-Of-Intelligence-Unveiling-AI/blob/main/Conent/Bytes%20Of%20Intelligencess.png" width="600px"><br/> Bytes Of Intelligence: Exploring AI's Secrets in Bangla</h1>
+      <h1> <img src="https://github.com/BytesOfIntelligences/BytesOfIntelligences/blob/main/Bytes%20Of%20Intelligencesshh.png" width="600px"><br/> Bytes Of Intelligence: Exploring AI's Secrets in Bangla</h1>
      </div>
 
 
