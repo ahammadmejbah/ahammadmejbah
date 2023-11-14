@@ -7,7 +7,7 @@ Welcome to the realm of **Bytes Of Intelligence**, where the enigmatic world of 
 
 <body>
 
-<center><h1>👨‍💻 Our Complete Artificial Intelligence Career Roadmap 👨‍💻</h1></center>
+<center><h1>👨‍💻 Our Full Free Complete Artificial Intelligence Career Roadmap 👨‍💻</h1></center>
 
 <table id="customers">
   <tr>
