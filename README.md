@@ -29,7 +29,7 @@ Welcome to the realm of **Bytes Of Intelligence**, where the enigmatic world of 
     <td><a href="https://www.youtube.com/watch?v=WdBevhl5X0A&list=PLLUqkkC1ww4UjJiVceUKGuwX6JKXZlvxy">Pytorch</a></td>
   </tr>
   <tr>
-    <td>3️⃣ Fundamentals of Computer Vision and Image Processingtd>
+    <td>3️⃣ Fundamentals of Computer Vision and Image Processing</td>
     <td><a href="https://github.com/BytesOfIntelligences/Fundamentals-of-Computer-Vision-and-Image-Processing">Computer Vision</a></td>
     <td><a href="https://bytesofintelligences.com/category/fundamentals-of-computer-vision-and-image-processing/">OpenCV</a></td>
     <td><a href="https://www.youtube.com/watch?v=fEHf7jOKEuQ&list=PLLUqkkC1ww4XNbvIKo34GfrKOHEH7rsHZ">Computer Vision</a></td>
