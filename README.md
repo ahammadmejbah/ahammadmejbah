@@ -1,9 +1,6 @@
 <div align="center">
-      <h3> <img src="https://github.com/BytesOfIntelligences/BytesOfIntelligences/blob/main/Exploring%20AI's%20Secretsss.png" width="200px"><br/> Bytes Of Intelligence: Exploring AI's Secrets </h3>
+      <h3> <img src="https://github.com/BytesOfIntelligences/BytesOfIntelligences/blob/main/Exploring%20AI's%20Secretsss.png" width="400px"><br/></h3>
      </div>
-
-
-Welcome to the realm of **Bytes Of Intelligence**, where the enigmatic world of artificial intelligence is unveiled before your eyes. 🌟 Our mission is to demystify AI and empower individuals and businesses with the knowledge to harness its transformative potential. With a team of dedicated experts and an interactive learning approach, we're here to guide you through the fascinating landscapes of Deep Learning, Machine Learning, Data Science, Federated Learning, Generative AI, and beyond. 🚀
 
 <body>
 
