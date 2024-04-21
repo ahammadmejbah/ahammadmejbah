@@ -1,5 +1,5 @@
 <div align="center">
-      <h3> <img src="https://github.com/BytesOfIntelligences/BytesOfIntelligences/blob/main/Exploring%20AI's%20Secrets%20Documents.png" width="400px"><br/></h3>
+      <h3> <img src="https://github.com/BytesOfIntelligences/BytesOfIntelligences/blob/main/BytesUpdates%20Doc.png" width="400px"><br/></h3>
      </div>
 
 <body>
