@@ -2,6 +2,8 @@
       <h3> <img src="https://github.com/BytesOfIntelligences/BytesOfIntelligences/blob/main/Trans.png" width="400px"><br/></h3>
      </div>
 
+
+
 <body>
 <p align="center">
   <a href="mailto:ahammadmejbah@gmail.com"><img src="https://img.shields.io/badge/Email-ahammadmejbah%40gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -15,7 +17,7 @@
   <a href="https://www.hackerrank.com/profile/ahammadmejbah"><img src="https://img.shields.io/badge/Hackerrank-ahammadmejbah-green?style=flat-square&logo=hackerrank"></a>
 </p>
 
-
+![LeetCode Stats](https://leetcode.card.workers.dev/ahammadmejbah?theme=auto&font=baloo&extension=activity)
 <center>
 <center><h2>👨‍💻 Full Free Complete Artificial Intelligence Career Roadmap 👨‍💻 </h2></center>
 <table border="1">
