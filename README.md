@@ -17,7 +17,6 @@
   <a href="https://www.hackerrank.com/profile/ahammadmejbah"><img src="https://img.shields.io/badge/Hackerrank-ahammadmejbah-green?style=flat-square&logo=hackerrank"></a>
 </p>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/ahammadmejbah?theme=auto&font=baloo&extension=activity)
 <center>
 <center><h2>👨‍💻 Full Free Complete Artificial Intelligence Career Roadmap 👨‍💻 </h2></center>
 <table border="1">
