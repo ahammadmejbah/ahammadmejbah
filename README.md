@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>6️⃣ Machine Learning Engineer Roadmap</td>
-    <td><a href="https://github.com/BytesOfIntelligences/Machine-Learning-Engineer-Roadmap">Machine Learning Engineer Code</a></td>
+    <td><a href="https://github.com/ahammadmejbah/Machine-Learning-Engineer-Roadmap">Machine Learning Engineer Code</a></td>
     <td><a href="https://bytesofintelligences.com/category/machine-learning-engineer-roadmap/">Machine Learning Docs</a></td>
     <td><a href="https://www.youtube.com/watch?v=z0oMMnp6jec&list=PLLUqkkC1ww4VS09f-YV9b5vO5LOT4jHew">Machine Learning Tutorial</a></td>
   </tr>
