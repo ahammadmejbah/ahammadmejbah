@@ -1,10 +1,3 @@
-<div align="center">
-      <h3> <img src="https://github.com/ahammadmejbah/ahammadmejbah/blob/main/RoadMap.png" width=""><br/></h3>
-      <center> <h2><a href="https://ahammadmejbah.com/roadmap/"> Link: 👨🏻‍🎓 Data Scientist Roadmap</a></h2>
-     </div>
-
-
-
 <body>
 <p align="center">
   <a href="mailto:ahammadmejbah@gmail.com"><img src="https://img.shields.io/badge/Email-ahammadmejbah%40gmail.com-blue?style=flat-square&logo=gmail"></a>
