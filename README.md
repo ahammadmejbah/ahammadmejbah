@@ -68,6 +68,12 @@
     <td><a href="https://bytesofintelligences.com/category/deep-learning-engineer-roadmap/">Deep Learning Docs</a></td>
     <td><a href="https://www.youtube.com/watch?v=bgTAoYB8pjI&list=PLLUqkkC1ww4VseNEShatgKHGOHhrwIl2x">Deep Learning Tutorial</a></td>
   </tr>
+    <tr>
+    <td>9️⃣ Scikit Learning Roadmap</td>
+    <td><a href="https://github.com/ahammadmejbah/Scikit-Learn-Roadmap">Scikit Learning Roadmap</a></td>
+    <td><a href="https://intelligenceacademy.ai/#/courses/Scikit-Learn-Roadmap">Scikit Learning Roadmap Course/a></td>
+    <td><a href="https://www.youtube.com/watch?v=bgTAoYB8pjI&list=PLLUqkkC1ww4VseNEShatgKHGOHhrwIl2x">Scikit Learning Roadmap Tutorial</a></td>
+  </tr>
 </table>
 </center>
 
