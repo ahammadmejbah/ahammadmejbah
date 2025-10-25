@@ -69,7 +69,7 @@
     <td><a href="https://www.youtube.com/watch?v=bgTAoYB8pjI&list=PLLUqkkC1ww4VseNEShatgKHGOHhrwIl2x">Deep Learning Tutorial</a></td>
   </tr>
     <tr>
-    <td>9️⃣ Scikit Learning Roadmap</td>
+    <td>9️⃣ Scikit Learn With Mathematics and Python</td>
     <td><a href="https://github.com/ahammadmejbah/Scikit-Learn-With-Mathematics-and-Python-By-Mejbah-Ahammad">Scikit Learning Roadmap</a></td>
     <td><a href="https://intelligenceacademy.ai/#/courses/Scikit-Learn-Roadmap">Scikit Learning Roadmap Course</a></td>
     <td><a href="https://www.youtube.com/watch?v=bgTAoYB8pjI&list=PLLUqkkC1ww4VseNEShatgKHGOHhrwIl2x">Scikit Learning Roadmap Tutorial</a></td>
